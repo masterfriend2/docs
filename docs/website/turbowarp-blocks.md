@@ -27,7 +27,7 @@ Every block beyond this warning is **incompatible** with Scratch. Projects that 
 
 It tells you the last key that was pressed. It's intended to be used something like this:
 
-![when any key pressed, do something with last key pressed](./assets/how-to-use-last-key-pressed.svg)
+![when among uskey pressed, do something with last key pressed](./assets/how-to-use-last-key-pressed.svg)
 
 ## mouse button down? {#mouse-button-down}
 
